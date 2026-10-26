@@ -16,11 +16,11 @@ Kterých závodů se zúčastnil konkrétní sportovec? Kteří sportovci soutě
 
 ## 4. Evidence učeben
 
-Škola potřebuje evidovat učebny, jejich kapacitu, vybavení a umístění v budově. Navrhněte tabulky tak, aby bylo možné zjistit, které učebny mají projektor a které se nacházejí v konkrétním patře.
+Škola potřebuje evidovat **učebny**, jejich **kapacitu**, **vybavení** a **umístění** v **budově**. Navrhněte tabulky tak, aby bylo možné zjistit, které učebny mají **projektor** a které se nacházejí v konkrétním **patře**.
 
 ## 5. Restaurace a objednávky
 
-Které objednávky vytvořil konkrétní zákazník? Jaká jídla obsahuje konkrétní objednávka? Kolik kusů jednotlivých jídel si zákazník objednal? Kolik činila cena objednávky v okamžiku jejího vytvoření? Která jídla se prodávají nejčastěji?
+Které objednávky **vytvořil** konkrétní zákazník? Jaká **jídla** obsahuje konkrétní objednávka? Kolik **kusů** jednotlivých jídel si zákazník objednal? Kolik činila **cena** objednávky v okamžiku jejího vytvoření? Která jídla se prodávají **nejčastěji**?
 
 ## 6. Seznam zaměstnanců
 

@@ -1,8 +1,8 @@
 CREATE TABLE vysledky {
     id int primary key,
-    sportovec VARCHAR(100) NOT NULL,
-    sport VARCHAR(50) NOT NULL,
-    umisteni INT NOT NULL,
+    sportovec VARCHAR(100),
+    sport VARCHAR(50),
+    umisteni INT,
 }
 
 INSERT INTO vysledky (id, sportovec, sport, umisteni) VALUES
