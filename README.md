@@ -24,7 +24,7 @@ Které objednávky **vytvořil** konkrétní zákazník? Jaká **jídla** obsahu
 
 ## 6. Seznam zaměstnanců
 
-Máte sloupce OsobniCislo, Jmeno, Prijmeni, Telefon, Email, Oddeleni, NazevOddeleni, Budova, Mistnost. Rozdělte údaje do tabulek tak, aby se informace o oddělení nemusela opakovat u každého zaměstnance.
+Máte sloupce **OsobniCislo**, **Jmeno**, **Prij****meni**, **Telefon**, **Email**, **Oddeleni**, **NazevOddeleni**, **Budova**, **Mistnost**. Rozdělte údaje do tabulek tak, aby se informace o oddělení nemusela opakovat u každého zaměstnance.
 
 ## 7. Filmové obsazení
 
