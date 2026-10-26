@@ -4,11 +4,11 @@
 
 ## 1. Herní knihovna
 
-Navrhněte databázi pro evidenci počítačových her. U každé hry potřebujeme znát název, rok vydání, žánr, věkové omezení a vývojářské studio. Evidujeme také, zda hru vlastníme a na jaké platformě ji lze hrát.
+Navrhněte databázi pro evidenci počítačových her. U každé hry potřebujeme znát **název, rok vydání, žánr, věkové omezení a vývojářské studio.** Evidujeme také, zda hru vlastníme a na jaké platformě ji lze hrát.
 
 ## 2. Školní rozvrh
 
-Který předmět se učí v dané třídě v určitou hodinu? Kdy a kde vyučuje konkrétní učitel? Které třídy mají v určitou dobu výuku v konkrétní učebně? V kolik hodin začíná a končí vyučovací hodina číslo 5? Co se změní v databázi, když škola upraví začátky vyučovacích hodin?
+Který **předmět** se učí v dané **třídě** v určitou **hodinu**? **Kdy a kde** vyučuje **konkrétní učitel**? Které třídy mají v určitou dobu výuku v konkrétní **učebně**? V kolik hodin **začíná** a **končí** **vyučovací hodina** číslo 5? Co se změní v databázi, když škola upraví začátky vyučovacích hodin?
 
 ## 3. Sportovní výsledky
 
