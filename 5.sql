@@ -26,3 +26,20 @@ CREATE TABLE polozky_objednavky (
     FOREIGN KEY (objednavka_id) REFERENCES objednavky(id),
     FOREIGN KEY (jidlo_id) REFERENCES jidla(id)
 );
+
+INSERT INTO zakaznici (id, jmeno) VALUES
+(1, "jaroslav hvozdak"),
+(2, "stanislav mendlák");
+
+INSERT INTO jidla (id, nazev, aktualni_cena) VALUES
+(1, "pizza", 200.00),
+(2, "jaroslavovy_kabanosy", 100.00);
+
+INSERT INTO objednavky (id, zakaznik_id, celkova_cena) VALUES
+(1, 1, 300.00),
+(2, 2, 100.00);
+
+INSERT INTO polozky_objednavky (objednavka_id, jidlo_id, pocet, cena_za_kus) VALUES
+(1, 1, 1, 200.00),
+(1, 2, 1, 100.00),
+(2, 2, 1, 100.00);
